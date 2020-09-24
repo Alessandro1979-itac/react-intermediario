@@ -1,7 +1,7 @@
 import React from 'react';
 import Inline from './components/Inline';
-import ClassName from './componentes/ClassName';
-import Styled from './componentes/Styled';
+import ClassName from './components/ClassName';
+import Styled from './components/Styled';
 
 const Estilos = () => (
     <div style={{display: 'flex', justifyContent: 'space-around'}}>

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 import { Topico1 } from './components/Topico1';
-import Topico3 from './components/topico3/Topico3';
+import Topico3 from './components/Topico3/Topico3';
 
 const ClassRoom = styled.div`
     display: flex;
